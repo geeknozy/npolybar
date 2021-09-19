@@ -1,5 +1,8 @@
 # npolybar
-Customised status bar for linux using polybar
+Customised status bar for linux using polybar, with GruvBox inspired theming
+
+# Official polybar can be found here : 
+https://github.com/polybar/polybar
 
 Here are the screenshots of the polybar panel and desktop
 
